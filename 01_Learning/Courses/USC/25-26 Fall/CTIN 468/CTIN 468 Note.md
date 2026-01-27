@@ -30,7 +30,9 @@ Over 75% of the game on Steam has less than 50 review which are very unlikely to
 Friend Slop
 Rage Game
 Idle
-Mini Horror
+Horror-Meta
+Simulation
+Autobattlers
 
 > Focus more on genres that audience likes
 
@@ -83,3 +85,16 @@ Youtube Short
 Lanch Demo in December (No competition)
 Content Creators
 100K Wishlists
+
+### Objective Strategy Plan
+
+***OSP***
+
+*Objective*
+What is your desired result, often stated in a way that can be measured?
+
+*Strategy*
+What approach will you choose to adreess the objective?
+
+*Plan*
+What specifically will you do that supports the strategy and accomplishes your objective?
