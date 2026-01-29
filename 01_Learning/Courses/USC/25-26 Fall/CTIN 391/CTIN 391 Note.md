@@ -20,3 +20,16 @@ A movement or visual that only contributes to an emotional feeling that does not
 **Action** - What the player attempts to do based on the situation.
 **Input** - How the player enters in the information into the game.
 **Computation** - The computer processes the player input and represents it in game.
+
+
+## 2026.1.28 - The Juice is slightly more contained
+The Three C's
+***Camera Character Control***
+
+**Camera**
+1. 1st Person
+2. 2nd Person
+3. 3rd Person
+
+1st Person vs. 3rd Person
+>Two different POV provides different ***emotion***
