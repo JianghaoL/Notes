@@ -29,3 +29,7 @@
 
 
 `Tab to Transient` + `A` Trim the silence before the triansient
+
+## 2026.2.2 Pro Tools for Voice Over
+
+`CMD + Shift + N` Creat new tracks
