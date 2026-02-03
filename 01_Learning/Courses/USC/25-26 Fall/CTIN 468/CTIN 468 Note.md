@@ -98,3 +98,8 @@ What approach will you choose to adreess the objective?
 
 *Plan*
 What specifically will you do that supports the strategy and accomplishes your objective?
+
+
+## 2026.2.2 Sensor Tower
+
+When Fortnite first came out, it did not come as the "battle royale" version.
