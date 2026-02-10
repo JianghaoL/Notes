@@ -33,3 +33,9 @@ The Three C's
 
 1st Person vs. 3rd Person
 >Two different POV provides different ***emotion***
+
+## 2026.2.4
+
+Experience Goals for Games
+
+> Something that players can actually feel or express as an impact of playing the game.

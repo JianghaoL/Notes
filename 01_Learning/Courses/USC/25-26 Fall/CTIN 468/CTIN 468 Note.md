@@ -99,7 +99,82 @@ What approach will you choose to adreess the objective?
 *Plan*
 What specifically will you do that supports the strategy and accomplishes your objective?
 
+<br><br><br>
 
 ## 2026.2.2 Sensor Tower
 
 When Fortnite first came out, it did not come as the "battle royale" version.
+
+<br><br><br>
+
+## 2026.2.9 - Tim Morten & Frost Giant
+
+> **Passionate core audience + approachable social expeirence = explosive growth potential**
+
+
+   
+
+Minimum bar is a game with 18 years of prior development, perhaps equivalent to $200M today. :(
+
+
+`Creativity Inc.`
+`Extreme Ownership`
+
+<br><br>
+
+### Marketing
+
+`CRM (customer relation management)` Built direct player relationships wherever possible; Brevo mailing list peaked around 250k.
+
+`Community` Discord was the bedrock of the engaged community, but Kickstarter became an important channel, generating $2.5M.
+
+`PR (public relations)` Generated a lot of press, and participated in a number of showcases - these were all the result of active effort.
+
+`Co-marketing` Between influencers and esports, and brand partnerships like nVidia, Frost Giant expanded reach.
+
+`Video` YouTube was the most active channel in terms of content production.
+
+<br><br>
+
+### Kickstarter
+
+| Good | Bad |
+| :---: | :---: |
+| Rasied $2.5M | Tons of customer service overhead |
+| Cultivated community | Sense of entitlement from participants |
+| Generated positive press | Also drama and negative sentiment |
+|Funded wider beta and collector's edition | Huge tax on the team |
+
+<br><br>
+
+### Advice On Starting
+
+| OPPORTUNITY | CHALLENGE |
+| :---: | :---: |
+| AI studios | Extreme market fragmentation |
+| UGC studios | Lack of reliable discovery mechanisms |
+| Reginal opportunities | North American devekopment is contracting |
+| New and niche publishers | Small tickets, race to the bottom |
+
+
+
+### Lecture
+
+| Passive | General Flow | Interactive
+| :---: | :---: | :---: |
+| Nickelodeons | Coin-op | Arcades |
+| Plays/Movies | Gate Price | Consoles |
+| Radio/TV | Free to Play | FB/Mobile |
+| Subscription TV | Subscription | Game Pass |
+| Web UGC | User Generated | Game UGC |
+
+
+<br><br>
+
+***Failure?***
+
+`Blockchain Gaming`
+`VR/AR Games`
+`Cloud Gaming`
+
+> Free-to-Play games allow users to pay however much they want to play, which in the end results in more revenue.

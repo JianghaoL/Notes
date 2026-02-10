@@ -33,3 +33,13 @@
 ## 2026.2.2 Pro Tools for Voice Over
 
 `CMD + Shift + N` Creat new tracks
+
+## 2026.2.9 Playlist Comping
+
+`Shift + S` Solo tracks
+
+`CMD + Opt + V` Promote a selection to the main playlist
+
+`Control + CMD + Left/Right Arrow` Switch to different view (block - playlist - waveform ...)
+
+`Shift + Return` Select all before the cursor
