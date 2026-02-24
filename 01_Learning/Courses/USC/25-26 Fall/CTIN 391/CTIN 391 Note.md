@@ -39,3 +39,21 @@ The Three C's
 Experience Goals for Games
 
 > Something that players can actually feel or express as an impact of playing the game.
+
+
+## 2026.2.18 - Intro to User Research
+
+> Developers already know the game.
+
+Becuase they built it, they ***can't*** see it with fresh eyes. They can't see it from the players POV.
+
+When you do user research, you find out about:
+
+**Human behavior**
+if players can play your game.
+See if player behavior matches game design.
+Why players do what they do.
+See if they experience the game as you intended.
+
+
+<br>

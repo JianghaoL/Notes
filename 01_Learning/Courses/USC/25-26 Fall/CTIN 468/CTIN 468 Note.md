@@ -178,3 +178,75 @@ Minimum bar is a game with 18 years of prior development, perhaps equivalent to 
 `Cloud Gaming`
 
 > Free-to-Play games allow users to pay however much they want to play, which in the end results in more revenue.
+
+<br><br><br>
+
+## 2026.2.23 - Jen Donahoe
+
+**Video Game Publishing & Marketing**
+
+### The 4 P's Set You Apart
+`Passion`
+`Personality`
+`Proactivity`
+`Purpose`
+
+
+Personal Brand -> Elevator Pitch
+
+
+### Brand Marketing
+
+"What are we doing and why?"
+
+"What is the identity and personality of the game?"
+
+### Product Marketing
+
+"Who are we making the game for and what is unique?"
+
+
+### Compaign
+
+"What are we putting in front of players to get them to ultimately play and spend in the game?"
+
+
+### OKRs - Objectives and Key Results
+
+**Objective** - What you want to accomplish.
+Significant, concrete, action-oriented, inspirational, and time-bound.
+
+**Key Result** - How am I going to get the objective done?
+
+
+
+### Audience
+
+> **Build for your players, not you.**
+> Unless you're the target audience. Build to fulfill the motivations and needs of your audience.
+
+
+### Soft Skills!
+
+**Ask, Don't Tell**
+Most people lean in and are delighted to be asked to help.
+
+**Trust is the Foundation**
+Learn to speak the lingo of other disciplines.
+
+**Flex your Style**
+Treat others as they want to be treated, not as you think they should be treated.
+
+**DISC**
+> D - Result oriented; firm; forceful; strong-willed.
+> I - Outgoing; enthusiastic; optimistic; lively.
+> S - Event-tempered; accommodating; patient; tactful.
+> C - Analytical; reserved; precise; systematic.
+
+**Become a Universal Translator**
+AKA Decoder Ring. Learn to speak the lingo of other disciplines.
+
+<br>
+
+-Network & ask for 1-2 other people
+-**Learn AI**
